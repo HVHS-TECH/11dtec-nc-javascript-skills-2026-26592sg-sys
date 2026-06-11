@@ -5,7 +5,8 @@ console.log("Running t01_introduction.js")
 console.log("Hello")
 
 // Variables
-console.log
+var name = Shan
+var age = 17
 
 /****************************
 Main code:
