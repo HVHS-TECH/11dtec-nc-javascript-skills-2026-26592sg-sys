@@ -9,6 +9,7 @@ var name = "Shan"
 var age = 17;
 var pocketMoney = 0;
 var currentYear = 2026; 
+console.log("Hi"+name)
 
 /****************************
 Main code:
