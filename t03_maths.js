@@ -16,8 +16,9 @@ var myThirdNumber = 13;
 console.log("Hi"+name)
 console.log("As of"+currentYear+"you are"+age)
 console.log("You were born in"+country)
-console.log("In 10 years you will be"+)
+console.log("In 10 years you will be"+myNumber+"years old")
 console.log("You have"+pocketMoney) 
+console.log
 
 /****************************
 Main code:
