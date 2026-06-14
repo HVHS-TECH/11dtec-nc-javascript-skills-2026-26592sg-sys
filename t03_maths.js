@@ -18,7 +18,8 @@ console.log("As of"+currentYear+"you are"+age)
 console.log("You were born in"+country)
 console.log("In 10 years you will be"+myNumber+"years old")
 console.log("You have"+pocketMoney) 
-console.log
+console.log("You spend half of your money, now you have"+mySecNumber)
+console.log   
 
 /****************************
 Main code:
