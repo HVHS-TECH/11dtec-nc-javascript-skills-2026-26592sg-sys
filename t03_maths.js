@@ -19,7 +19,7 @@ console.log("You were born in"+country)
 console.log("In 10 years you will be"+myNumber+"years old")
 console.log("You have"+pocketMoney) 
 console.log("You spend half of your money, now you have"+mySecNumber)
-console.log   
+console.log("Then you get $3, now you have"+myThirdNumber)    
 
 /****************************
 Main code:
