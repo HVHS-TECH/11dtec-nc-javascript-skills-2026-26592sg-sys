@@ -25,12 +25,12 @@ OUTPUT.innerHTML += "<p>Then you get $3, now you have" + myThirdNumber + "</p>";
 /****************************
 Main code:
 ****************************/
-writeLine()
+welcome()
 
 /****************************
 Functions:
 ****************************/ 
-function writeLine(){
+function welcome(){
 
-    OUTPUT.innerHTML += "<p>Less code matters</p>";
+    OUTPUT.innerHTML += "<p>Welcome to the shop</p>";
 }
