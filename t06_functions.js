@@ -1,7 +1,7 @@
-/* /*/****************************
-Name of task: Task 0
+/*/****************************
+Name of task: Task 06 - Functions
 ****************************/
-console.log("Running task 05...")
+console.log("Running task 06...")
 console.log("Hello")
 
 // Variables
@@ -25,7 +25,12 @@ OUTPUT.innerHTML += "<p>Then you get $3, now you have" + myThirdNumber + "</p>";
 /****************************
 Main code:
 ****************************/
+writeLine()
 
 /****************************
 Functions:
 ****************************/ 
+function writeLine(){
+
+    OUTPUT.innerHTML += "<p>Less code matters</p>";
+}
