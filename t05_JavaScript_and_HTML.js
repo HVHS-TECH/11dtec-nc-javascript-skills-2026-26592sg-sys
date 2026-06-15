@@ -1,5 +1,5 @@
  /*/****************************
-Name of task:Variables
+Name of task: Task 05 - JavaScript and HTML
 ****************************/
 console.log("Running t01_introduction.js")
 console.log("Hello")
