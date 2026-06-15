@@ -13,6 +13,7 @@ var country = "Philippines";
 var myNumber = 27;
 var mySecNumber = 10;
 var myThirdNumber = 13;
+const OUTPUT = 
 console.log("Hi" + name);
 console.log("As of" + currentYear + "you are" + age);
 console.log("You were born in" + country);
