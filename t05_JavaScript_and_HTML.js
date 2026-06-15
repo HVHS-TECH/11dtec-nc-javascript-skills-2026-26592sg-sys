@@ -14,13 +14,13 @@ var myNumber = 27;
 var mySecNumber = 10;
 var myThirdNumber = 13;
 const OUTPUT = document.getElementById("spaceForJavaScriptOutput");
-OUTPUT.innerHTML = "<p>Hi" + name</h2>;
-OUTPUT.innerHTML += ("As of" + currentYear + "you are" + age);
-OUTPUT.innerHTML += ("You were born in" + country);
-OUTPUT.innerHTML += ("In 10 years you will be" + myNumber + "years old");
-OUTPUT.innerHTML += ("You have" + pocketMoney); 
-OUTPUT.innerHTML += ("You spend half of your money, now you have" + mySecNumber);
-OUTPUT.innerHTML += ("Then you get $3, now you have" + myThirdNumber);    
+OUTPUT.innerHTML = "<p>Hi" + name + "</p">;
+OUTPUT.innerHTML += "<p>As of" + currentYear + "you are" + age + "</p>";
+OUTPUT.innerHTML += "<p>You were born in" + country + "</p>";
+OUTPUT.innerHTML += "<p>In 10 years you will be" + myNumber + "years old" + "</p>";
+OUTPUT.innerHTML += "<p>You have" + pocketMoney + "</p>"; 
+OUTPUT.innerHTML += "<p>You spend half of your money, now you have" + mySecNumber + "</p>";
+OUTPUT.innerHTML += "<p>Then you get $3, now you have" + myThirdNumber + "</p>";    
 
 /****************************
 Main code:
