@@ -34,4 +34,10 @@ function welcome(){
 
     OUTPUT.innerHTML += "<p>Welcome to the shop</p>";
 }
-function displayProduct(_name, _price){}
+function displayProduct(_name, _price){
+    OUTPUT.innerHTML += "<p>I would reccommend" +_name+ "</p>"
+    OUTPUT.innerHTML += "<P>It is for" +_price+ "</p>"
+}
+displayProduct("Chocolate Bar", $4);
+displayProduct("Chips", $3);
+displayProduct("Drink", 2.50);
