@@ -38,3 +38,16 @@ function welcome(){
 <button onClick="start()">START</button>
 
 <div id="spaceForJavaScriptOutput"></div>
+/****************************
+Main code:
+****************************/
+
+
+/****************************
+Functions:
+****************************/ 
+function start(){
+    spaceForJavaScriptOutput.innerHTML
+}spaceForJavaScriptOutput.innerHTML
+    answer = currentYear - age; 
+    spaceForJavaScriptOutput.innerHTML
