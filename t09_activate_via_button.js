@@ -34,3 +34,4 @@ function welcome(){
 
     OUTPUT.innerHTML += "<p>Welcome to the shop</p>";
 }
+<button onClick="start()">START</button>
