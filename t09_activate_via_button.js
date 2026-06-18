@@ -34,4 +34,7 @@ function welcome(){
 
     OUTPUT.innerHTML += "<p>Welcome to the shop</p>";
 }
+<p>Open the console <code>(Ctrl-shift-i)</code>
 <button onClick="start()">START</button>
+
+<div id="spaceForJavaScriptOutput"></div>
