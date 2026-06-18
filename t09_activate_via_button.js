@@ -34,8 +34,8 @@ function welcome(){
 
     OUTPUT.innerHTML += "<p>Welcome to the shop</p>";
 }
-<p>Open the console <code>(Ctrl-shift-i)</code>
-<button onClick="start()">START</button>
+"<p>Open the console <code>(Ctrl-shift-i)</code>"
+<button ;onClick="start()\;">START<button>
 
 <div id="spaceForJavaScriptOutput"></div>
 /****************************
@@ -48,6 +48,6 @@ Functions:
 ****************************/ 
 function start(){
     spaceForJavaScriptOutput.innerHTML
-}spaceForJavaScriptOutput.innerHTML
+}   ;spaceForJavaScriptOutput.innerHTML
     answer = currentYear - age; 
     spaceForJavaScriptOutput.innerHTML
