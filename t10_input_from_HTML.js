@@ -59,3 +59,5 @@ function start(){
     </form>
 <label for="formName":</label>
 <input type="text" id="nameCourt" name="formName"
+const NAME_COURT = document={.getElementById}("nameCourt");
+let name = NAME.COURT.value;
