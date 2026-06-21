@@ -53,6 +53,7 @@ function start(){
     spaceForJavaScriptOutput.innerHTML
 
 <form onsubmit= "return false;">
-    <input type="text" id="nameCourt">
+    <label for="formName">Name:</label>
+    <input type="text" id="nameCourt" name="formName">
     <input type="submit" onClick=getFormInput()>
     </form>
