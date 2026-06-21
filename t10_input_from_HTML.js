@@ -52,7 +52,7 @@ function start(){
     answer = currentYear - age; 
     spaceForJavaScriptOutput.innerHTML
 
-<form>
-    <input type="text">
-    <input type="submit">
-    <form/>
+<form onsubmit= "return false;">
+    <input type="text" id="nameCourt">
+    <input type="submit" onClick=getFormInput()>
+    </form>
