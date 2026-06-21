@@ -54,5 +54,5 @@ function start(){
 
 <form>
     <input type="text">
-    <input type= "submit">
+    <input type="submit">
     <form/>
