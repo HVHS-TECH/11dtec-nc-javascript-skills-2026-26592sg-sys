@@ -57,4 +57,4 @@ function start(){
     <input type="text" id="nameCourt" name="formName">
     <input type="submit" onClick=getFormInput()>
     </form>
-<label for="formName">:/label>
+<label for="formName":</label>
